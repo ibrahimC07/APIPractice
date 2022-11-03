@@ -64,6 +64,13 @@
    assertThat() Hard assertion'dır.
 
 
+
+
+   Matchers.hasSize(): Datanın size'ını doğrulamak için kullanılır.
+   Matchers.hasItem(): Girilen tek bir data'yı doğrulamak için kullanılır.
+   Matchers.hasItems(): Girilen birden fazla datayı doğrulamak için kullanılır.
+
+
 TEST iÇiN KULLANILAN ADRESLER
 
 https://restful-booker.herokuapp.com/booking
