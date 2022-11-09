@@ -9,5 +9,8 @@
         <module name="APIPractice" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="APIPractice" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
